@@ -1,15 +1,13 @@
 # Grupon App
 ======================
-
 App de promociones, the iOS App 
-
 
 Libs to Use
 =======================
 
-1. 
-2.
-3. 
+1. lib 1
+2. lib 2
+3. lib 3
 
 ###URL's
 
