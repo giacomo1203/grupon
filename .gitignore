@@ -264,3 +264,6 @@ dist/
 
 # Grunt usually preprocesses files such as coffeescript, compass... inside the .tmp directory
 .tmp/
+
+Pods/
+#Podfile.lock  # changed my mind on Podfile.lock
